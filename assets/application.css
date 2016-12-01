@@ -30,18 +30,17 @@ div.simple-intro{
   float: right;
   color: #ffb247;
   font-size: 70px;
+  text-align: center;
 }
 
 div.simple-intro >h2{
   color: #d10404;
   font-size: 40px;
-  text-align: center;
 }
 
 div.sidebar{
   background: #818181;
   width: 20%;
-  
 }
 
 div.portfolio{
