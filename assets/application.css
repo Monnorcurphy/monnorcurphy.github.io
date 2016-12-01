@@ -12,11 +12,14 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
-  padding: 0;
+  padding: 10px;
   border: 0;
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  color: inherit;
+  text-decoration: none;
+  text-align: inherit;
 }
 
 div.simple-intro{
@@ -25,6 +28,14 @@ div.simple-intro{
   height: 40%;
   position: relative;
   float: right;
+  color: #ffb247;
+  font-size: 70px;
+}
+
+div.simple-intro >h2{
+  color: #d10404;
+  font-size: 40px;
+  text-align: center;
 }
 
 div.sidebar{
@@ -40,10 +51,11 @@ div.portfolio{
   height: 40%;
   position: relative;
   float: right;
+  text-align: right
 }
 
-div.first-project{
-  
+div.portfolio{
+  color: #faff0d;
 }
 
 
