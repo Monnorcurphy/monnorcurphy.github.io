@@ -33,7 +33,7 @@ div.simple-intro{
   text-align: center;
 }
 
-div.simple-intro >h2{
+div.simple-intro > h2{
   color: #2252D7;
   font-size: 40px;
 }
@@ -55,7 +55,7 @@ div.portfolio{
   font-weight: bold;
 }
 
-div.portfolio > p{
+p.project-description{
   color: white;
   font-size: 20px;
   font-weight: none;
@@ -68,7 +68,7 @@ div.deatailed-intro{
   float: left;
 }
 
-div.deatailed-intro > a{
+p.personal-link{
   width: auto;
   height: 40px;
 }
