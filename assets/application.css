@@ -34,7 +34,7 @@ div.simple-intro{
 }
 
 div.simple-intro >h2{
-  color: #d10404;
+  color: #535c9c;
   font-size: 40px;
 }
 
@@ -44,7 +44,7 @@ div.sidebar{
 }
 
 div.portfolio{
-  background: #535c9c;
+  background: #d10404;
   width: 80%;
   height: 40%;
   position: relative;
