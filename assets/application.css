@@ -21,8 +21,15 @@ time, mark, audio, video {
 
 
 div.main-body{
-  background: #015911;
-  width: 80;
+  background: #535c9c;
+  width: 80%;
   position: relative;
   float: right;
+}
+
+div.side-bar{
+  background: #152074;
+  width: 20%;
+  position: relative;
+  float: left;
 }
