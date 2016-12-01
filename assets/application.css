@@ -20,11 +20,18 @@ time, mark, audio, video {
 }
 
 div.simple-intro{
-  background: #818181;
+  background: #152074;
   width: 80%;
   height: 40%;
   position: relative;
   float: right;
+}
+
+div.sidebar{
+  background: #818181;
+  width: 20%;
+  position: relative;
+  float: left;
 }
 
 div.portfolio{
@@ -35,12 +42,10 @@ div.portfolio{
   float: right;
 }
 
-div.sidebar{
-  background: #152074;
-  width: 20%;
-  position: relative;
-  float: left;
+div.first-project{
+  
 }
+
 
 div.deatailed-intro{
   background: #152074;
