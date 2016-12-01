@@ -23,18 +23,18 @@ time, mark, audio, video {
 }
 
 div.simple-intro{
-  background: #535c9c;
+  background: #d7f4ff;
   width: 80%;
   height: 40%;
   position: relative;
   float: right;
-  color: #ffb247;
+  color: #415D9F;
   font-size: 70px;
   text-align: center;
 }
 
 div.simple-intro >h2{
-  color: #d10404;
+  color: #2252D7;
   font-size: 40px;
 }
 
@@ -44,21 +44,19 @@ div.sidebar{
 }
 
 div.portfolio{
-  background: #152074;
+  background: #415D9F;
   width: 80%;
   height: 40%;
   position: relative;
   float: right;
-  text-align: right
+  text-align: right;
+  color: #d7f4ff;
 }
 
-div.portfolio{
-  color: rgb(255, 178, 71);
-}
 
 
 div.deatailed-intro{
-  background: #152074;
+  background: #d7f4ff;
   width: 20%;
   position: relative;
   float: left;
