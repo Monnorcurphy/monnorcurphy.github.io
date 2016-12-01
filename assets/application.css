@@ -19,10 +19,18 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+div.simple-intro{
+  background: #818181;
+  width: 80%;
+  height: 40%;
+  position: relative;
+  float: right;
+}
 
 div.portfolio{
   background: #535c9c;
   width: 80%;
+  height: 40%;
   position: relative;
   float: right;
 }
