@@ -41,8 +41,7 @@ div.simple-intro >h2{
 div.sidebar{
   background: #818181;
   width: 20%;
-  position: relative;
-  float: left;
+  
 }
 
 div.portfolio{
