@@ -68,7 +68,7 @@ div.deatailed-intro{
   float: left;
 }
 
-p.personal-link{
+a.personal-link{
   width: auto;
   height: 40px;
 }
