@@ -18,3 +18,11 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
+
+div.main-body{
+  background: #015911;
+  width: 80;
+  position: relative;
+  float: right;
+}
