@@ -41,3 +41,10 @@ div.sidebar{
   position: relative;
   float: left;
 }
+
+div.deatailed-intro{
+  background: #152074;
+  width: 20%;
+  position: relative;
+  float: left;
+}
