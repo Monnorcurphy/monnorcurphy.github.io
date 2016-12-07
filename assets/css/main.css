@@ -56,9 +56,10 @@
 	}
 
 	img.me{
-		max-width: 25%;
-		width: auto;
-		height: auto;
+		max-width: 34%;
+    width: auto;
+    height: auto;
+    padding: 10px;
 	}
 /* Box Model */
 
@@ -2253,7 +2254,7 @@
 		}
 
 			.image.main img {
-				width: 22%;
+
 			}
 
 			@media screen and (max-width: 736px) {
