@@ -48,6 +48,18 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
+	div.pictures{
+		display: flex;
+		justify-content: space-around;
+		max-height: 300px;
+	}
+
+	img.me{
+		max-width: 25%;
+		width: auto;
+		height: auto;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
@@ -3985,16 +3997,4 @@
 			transform: none;
 			opacity: 1;
 			visibility: visible;
-		}
-
-		div.pictures{
-		  display: flex;
-		  justify-content: space-around;
-		  max-height: 300px;
-		}
-
-		img.me{
-		  max-width: 25%;
-		  width: auto;
-		  height: auto;
 		}
