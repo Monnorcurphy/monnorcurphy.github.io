@@ -56,10 +56,11 @@
 	}
 
 	img.me{
-		max-width: 34%;
+		max-width: 350px;
     width: auto;
-    height: auto;
+    max-height: 275px;
     padding: 10px;
+    min-width: 200px;
 	}
 /* Box Model */
 
@@ -3420,7 +3421,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-	
+
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
